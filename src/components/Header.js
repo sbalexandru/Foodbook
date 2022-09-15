@@ -3,7 +3,9 @@ import "./styled.scss";
 const Header = () => {
   return (
     <>
-      <div>aaa</div>
+      <div className="header-container">
+        <h1>FoodBook</h1>
+      </div>
     </>
   );
 };

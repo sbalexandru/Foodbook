@@ -69,6 +69,20 @@ ul,
 ol {
   list-style-type: none;
 }
+
+/* start main page style */
+
+.main-container {
+  background-image: url(./img/back2.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* end main page style */
+
 /* End Reset */
 
 @import url("https://fonts.googleapis.com/css2?family=Pattaya&display=swap");
@@ -78,6 +92,7 @@ ol {
 @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Estonia&display=swap");
 
 /* font-family: 'Allerta Stencil', sans-serif;
 
@@ -100,16 +115,6 @@ ol {
     font-family: 'Caveat', cursive;
 
     font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Estonia', cursive;
     */
-/* start main page style */
-
-.main-container {
-  background-image: url(./img/back2.jpg);
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-  min-height: 100vh;
-}
-
-/* end main page style */
